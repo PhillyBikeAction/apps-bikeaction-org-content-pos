@@ -1,0 +1,6 @@
+locales = [ "es",]
+[[paths]]
+reference = "templates/pages/home/market-st-bridge-detour-bike-safety.pot"
+l10n = "locales/{locale}/pages/home/market-st-bridge-detour-bike-safety.po"
+locales = [ "es",]
+

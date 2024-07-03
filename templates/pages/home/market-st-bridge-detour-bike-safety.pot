@@ -1,0 +1,20 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-07-03 16:20:08.699856+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Withdraw the Bike Lane Parking Permits on Spruce and Pine Streets"
+msgstr ""
+
+msgctxt "slug"
+msgid "market-st-bridge-detour-bike-safety"
+msgstr ""
+
+msgctxt "body"
+msgid ""
+"Every Philadelphian, regardless of age or ability, deserves safe, accessible bike lanes to get around. Unfortunately, we find our bike lanes on Spruce and Pine streets obstructed by motor vehicles "
+"each weekend to accommodate congregants who choose to drive. While everyone has the right to worship as they choose, no one has the right to put others in danger by parking in the bike lane."
+msgstr ""
