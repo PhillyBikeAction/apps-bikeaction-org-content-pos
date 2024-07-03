@@ -14,8 +14,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: e4d22c9e-2caa-4c44-b9a0-2bf6058e68d5\n"
 
 msgctxt "title"
-msgid "Withdraw the Bike Lane Parking Permits on Spruce and Pine Streets"
-msgstr "Retirar los permisos de estacionamiento para carriles para bicicletas en las calles Spruce y Pine"
+msgid "Withdraw the CHURCH Parking Permits on Spruce and Pine Streets"
+msgstr ""
 
 msgctxt "slug"
 msgid "market-st-bridge-detour-bike-safety"
@@ -40,3 +40,7 @@ msgstr ""
 #~ "been continually advocating for better safety accommodations for people on bicycles during the detour, especially on Walnut St Bridge and 23rd St.<br/><i>This page will continually be updated as our"
 #~ " work develops.</i>"
 #~ msgstr "Test!"
+
+#~ msgctxt "title"
+#~ msgid "Withdraw the Bike Lane Parking Permits on Spruce and Pine Streets"
+#~ msgstr "Retirar los permisos de estacionamiento para carriles para bicicletas en las calles Spruce y Pine"

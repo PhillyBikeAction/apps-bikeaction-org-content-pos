@@ -6,7 +6,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "title"
-msgid "Withdraw the Bike Lane Parking Permits on Spruce and Pine Streets"
+msgid "Withdraw the CHURCH Parking Permits on Spruce and Pine Streets"
 msgstr ""
 
 msgctxt "slug"
