@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-07-03 16:27:40.371563+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Subpage"
+msgstr ""
+
+msgctxt "slug"
+msgid "subpage"
+msgstr ""
+
+msgctxt "body"
+msgid "Subpage body"
+msgstr ""
