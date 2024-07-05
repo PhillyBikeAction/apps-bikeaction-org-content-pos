@@ -22,5 +22,9 @@ msgid "subpage"
 msgstr "subpage"
 
 msgctxt "body"
-msgid "Subpage body"
-msgstr "body"
+msgid "This is a sub page!"
+msgstr ""
+
+#~ msgctxt "body"
+#~ msgid "Subpage body"
+#~ msgstr "body"
