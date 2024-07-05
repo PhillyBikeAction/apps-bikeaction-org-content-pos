@@ -1,11 +1,11 @@
 locales = [ "es",]
 [[paths]]
-reference = "templates/pages/home/market-st-bridge-detour-bike-safety.pot"
-l10n = "locales/{locale}/pages/home/market-st-bridge-detour-bike-safety.po"
+reference = "templates/pages/philly-bike-action.pot"
+l10n = "locales/{locale}/pages/philly-bike-action.po"
 locales = [ "es",]
 
 [[paths]]
-reference = "templates/pages/home/market-st-bridge-detour-bike-safety/subpage.pot"
-l10n = "locales/{locale}/pages/home/market-st-bridge-detour-bike-safety/subpage.po"
+reference = "templates/pages/philly-bike-action/test.pot"
+l10n = "locales/{locale}/pages/philly-bike-action/test.po"
 locales = [ "es",]
 
