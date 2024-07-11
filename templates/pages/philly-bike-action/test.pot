@@ -14,5 +14,77 @@ msgid "test"
 msgstr ""
 
 msgctxt "body"
-msgid "This is a test CMS page"
+msgid "<a id=\"a1\">Read more</a> about our history and progress on this campaign."
+msgstr ""
+
+msgctxt "body"
+msgid ""
+"Every Philadelphian, regardless of age or ability, deserves safe, accessible bike lanes to get around. Unfortunately, we find our bike lanes on Spruce and Pine streets obstructed by motor vehicles "
+"each weekend to accommodate congregants who choose to drive. While everyone has the right to worship as they choose, no one has the right to put others in danger by parking in the bike lane."
+msgstr ""
+
+msgctxt "body"
+msgid ""
+"The Streets Department authorizes this dangerous practice by issuing “equipment placement” permits. Not only are these permits dangerous, they are also issued illegally under Philadelphia § 11-612 "
+"(a) stating <i>\"No vehicle may park, stop or stand in any sidewalk or roadway lane that has been closed, other than vehicles in the process of loading or unloading materials, equipment or supplies,"
+" or which are otherwise required for the activity for which the permit has been obtained. A vehicle used to transport contractors or their employees or any other persons to or from the location of "
+"the closure shall not be considered to be a vehicle required for such activity.\"</i>"
+msgstr ""
+
+msgctxt "body"
+msgid "The congregations currently requesting bike lane parking permits on Spruce or Pine streets are:"
+msgstr ""
+
+msgctxt "body"
+msgid "Tenth Presbyterian Church (<a id=\"a1\">permit</a>)"
+msgstr ""
+
+msgctxt "body"
+msgid "Old Pine Street Church (<a id=\"a1\">permit</a>)"
+msgstr ""
+
+msgctxt "body"
+msgid "Society Hill Synagogue (<a id=\"a1\">permit 1</a>, <a id=\"a2\">permit 2</a>)"
+msgstr ""
+
+msgctxt "body"
+msgid "Temple Beth Zion-Beth Israel (<a id=\"a1\">permit</a>)"
+msgstr ""
+
+msgctxt "body"
+msgid ""
+"To remedy this dangerous situation and prevent further conflict, we ask that the permits no longer be requested by the listed congregations. We also ask that the city of Philadelphia work with these"
+" congregations to find alternatives to bike lane parking."
+msgstr ""
+
+msgctxt "body"
+msgid "Get involved and help end this practice by:"
+msgstr ""
+
+msgctxt "body"
+msgid ""
+"Signing our <a id=\"a1\">petition</a> to the Philadelphia Office of Transportation, Infrastructure, and Sustainability (OTIS) to demand that these permits be retired forever and that bike lane "
+"parking alternatives be found."
+msgstr ""
+
+msgctxt "body"
+msgid "Attending our <a id=\"a1\">weekly Bike Lane Parties</a> to show that we take seriously any infringement upon this space. (<a id=\"a2\">https://discord.gg/FNYfjzjWnB</a>)"
+msgstr ""
+
+msgctxt "body"
+msgid "<a id=\"a1\">Donate</a>"
+msgstr ""
+
+msgctxt "body"
+msgid "Taking photos or recording video of cars blocking the bike lane during worship hours. Tag @phlbikeaction, @philaotis, and use the hashtag #withdrawthepermits"
+msgstr ""
+
+msgctxt "body"
+msgid "Posting to social media so everyone gets a chance to sign the petition. <a id=\"a1\">Here's an image you can use</a> (or feel free to add your own)"
+msgstr ""
+
+msgctxt "body"
+msgid ""
+"If action is delayed, it is only a matter of time before someone is seriously injured or killed. Already we see the red flags. There are many accounts of families and elderly being harassed when "
+"sharing the lane with impatient motorists. Now is the time to make things right."
 msgstr ""
